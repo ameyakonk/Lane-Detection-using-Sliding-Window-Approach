@@ -17,6 +17,6 @@
 <img src="https://user-images.githubusercontent.com/78075049/222947469-3a409a55-5391-4e4e-a483-0fc8b264748b.png" width="700" height="380">
 
 #### Final result
-<img src="https://user-images.githubusercontent.com/78075049/222947342-5e4a342a-4e3f-4dd3-8ab4-9a97812cebcd.png" width="700" height="380">
+<img src="https://user-images.githubusercontent.com/78075049/222947342-5e4a342a-4e3f-4dd3-8ab4-9a97812cebcd.png" >
 
 
